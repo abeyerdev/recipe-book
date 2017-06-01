@@ -40,3 +40,10 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# ng files
+typings
+app/**/*.map
+node_modules
+jspm_packages
+bower_components

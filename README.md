@@ -1,5 +1,7 @@
 # Recipe Book
 
+Educational project [hosted on Amazon S3](http://ng-deploy-recipebook.s3-website.us-east-2.amazonaws.com). 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server

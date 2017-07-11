@@ -2,6 +2,8 @@
 
 Educational project [hosted on Amazon S3](http://ng-deploy-recipebook.s3-website.us-east-2.amazonaws.com). 
 
+To get started, you can use the test user `test@test.com` with p/w `testing`. Then be sure to Fetch Data from the Manage menu at the top right corner of the page. This will load the user's recipes to be managed. From there you can build and manage an overall shopping list.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server

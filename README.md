@@ -1,6 +1,6 @@
 # Recipe Book
 
-Educational project [hosted on Amazon S3](http://ng-deploy-recipebook.s3-website.us-east-2.amazonaws.com). 
+Educational project built while learning Angular 4 from Maximilian Schwarzmüller's *Angular - The Complete Guide* series. 
 
 To get started, you can use the test user `test@test.com` with p/w `testing`. Then be sure to Fetch Data from the Manage menu at the top right corner of the page. This will load the user's recipes to be managed. From there you can build and manage an overall shopping list.
 
@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run an initial `npm install` followed by `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
